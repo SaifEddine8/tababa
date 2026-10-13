@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597271759544",
+    "project_id": "tababa-60368",
+    "storage_bucket": "tababa-60368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597271759544:android:2c6185ef00c188239fc24d",
+        "android_client_info": {
+          "package_name": "com.example.tababa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZ9m09zl-uXLswdJ7L_DTJhwZk9DArw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
